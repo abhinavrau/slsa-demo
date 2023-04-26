@@ -1,0 +1,1 @@
+gcloud kms keys list --location=$REGION --keyring=$KEY_RING
